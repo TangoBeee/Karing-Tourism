@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* --------------- Body Scrollbar style starts here -------------- */
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 5px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+/* --------------- Body Scrollbar style ends here -------------- */
+
+.container {
+  padding: 30px 100px;
+}
+
+.whatsapp-icon {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.navSeprator {
+  width: 0px;
+  height: 100px;
+}
+
+
+@media (max-width: 560px) {
+  .container {
+    padding: 30px 10px;
+  }
+}

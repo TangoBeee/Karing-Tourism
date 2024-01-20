@@ -1,0 +1,78 @@
+[
+    {
+        "activityType" : "Dinner",
+        "activityName" : "Dinner In The Sky",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-23-450x300.jpg",
+        "activityLocation" : "Skydive, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 202
+    },
+
+    {
+        "activityType" : "Travel",
+        "activityName" : "Dhow Cruise - Marina",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-42-450x300.jpg",
+        "activityLocation" : "The Palm Islands, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 20
+
+    },
+
+    {
+        "activityType" : "Activity",
+        "activityName" : "Ski Dubai",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/things-to-do-in-ski-dubai-for-ki-450x300.jpg",
+        "activityLocation" : "Ski resort, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 67
+
+    },
+
+    {
+        "activityType" : "Dinner",
+        "activityName" : "Dinner In The Sky",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-23-450x300.jpg",
+        "activityLocation" : "Skydive, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 202
+    },
+
+    {
+        "activityType" : "Travel",
+        "activityName" : "Dhow Cruise - Marina",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-42-450x300.jpg",
+        "activityLocation" : "The Palm Islands, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 20
+
+    },
+
+    {
+        "activityType" : "Activity",
+        "activityName" : "Ski Dubai",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/things-to-do-in-ski-dubai-for-ki-450x300.jpg",
+        "activityLocation" : "Ski resort, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 67
+
+    },
+
+    {
+        "activityType" : "Dinner",
+        "activityName" : "Dinner In The Sky",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-23-450x300.jpg",
+        "activityLocation" : "Skydive, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 202
+    },
+
+    {
+        "activityType" : "Travel",
+        "activityName" : "Dhow Cruise - Marina",
+        "activityImage" : "https://karingrkatourism.com/wp-content/uploads/2022/04/Untitled-design-42-450x300.jpg",
+        "activityLocation" : "The Palm Islands, Dubai, UAE",
+        "activityCurrency" : "USD",
+        "activityPrice" : 20
+
+    }
+]
